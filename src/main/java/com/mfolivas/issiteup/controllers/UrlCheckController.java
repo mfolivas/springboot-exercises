@@ -1,4 +1,4 @@
-package controllers;
+package com.mfolivas.issiteup.controllers;
 
 import java.io.IOException;
 import java.net.HttpURLConnection;
